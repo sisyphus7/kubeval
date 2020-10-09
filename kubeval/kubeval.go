@@ -12,6 +12,7 @@ import (
 	"sigs.k8s.io/yaml"
 )
 
+// sisyphus7 edited this
 // ValidFormat is a type for quickly forcing
 // new formats on the gojsonschema loader
 type ValidFormat struct{}
